@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище EducateModelContainer" CdmEntityContainer="EducateEntities">
+    <EntitySetMapping Name="cabinets">
+      <EntityTypeMapping TypeName="EducateModel.cabinet">
+        <MappingFragment StoreEntitySet="cabinets">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="teacher" ColumnName="teacher" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="classes">
+      <EntityTypeMapping TypeName="EducateModel.class">
+        <MappingFragment StoreEntitySet="classes">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="teacher" ColumnName="teacher" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="countPupils" ColumnName="countPupils" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="lessons">
+      <EntityTypeMapping TypeName="EducateModel.lesson">
+        <MappingFragment StoreEntitySet="lessons">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="teacher" ColumnName="teacher" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="countHours" ColumnName="countHours" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="shedules">
+      <EntityTypeMapping TypeName="EducateModel.shedule">
+        <MappingFragment StoreEntitySet="shedule">
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="numberLesson" ColumnName="numberLesson" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="lesson" ColumnName="lesson" />
+          <ScalarProperty Name="cabinet" ColumnName="cabinet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="teachers">
+      <EntityTypeMapping TypeName="EducateModel.teacher">
+        <MappingFragment StoreEntitySet="teachers">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="midname" ColumnName="midname" />
+          <ScalarProperty Name="birthday" ColumnName="birthday" />
+          <ScalarProperty Name="passport" ColumnName="passport" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

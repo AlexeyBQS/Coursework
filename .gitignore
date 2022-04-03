@@ -1,0 +1,10 @@
+# Template folders on project "GenData"
+.programs\Shedule\GenData\bin
+.programs\Shedule\GenData\obj
+
+# Template folders on project "Shedule"
+.programs\Shedule\Shedule\bin
+.programs\Shedule\Shedule\obj
+
+# Product folder
+product

@@ -1,0 +1,487 @@
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.AssemblyReference.cache
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.SuggestedBindingRedirects.cache
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csprojAssemblyReference.cache
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+E:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+E:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+F:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+G:\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csprojAssemblyReference.cache
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+G:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.AssemblyReference.cache
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.SuggestedBindingRedirects.cache
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\App.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+F:\.usb_data\4)Курсовая работа (основа)\Создание базы данных для распределения учебной нагрузки\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.AssemblyReference.cache
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.SuggestedBindingRedirects.cache
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\App.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+F:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csprojAssemblyReference.cache
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\App.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+G:\.usb_data\4)Курсовая работа (основа)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.AssemblyReference.cache
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.SuggestedBindingRedirects.cache
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\App.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+F:\.usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe.config
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.exe
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Shedule.pdb
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.SqlServer.dll
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\EntityFramework.dll
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.AccessControl.dll
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Permissions.dll
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\bin\Debug\System.Security.Principal.Windows.dll
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.AssemblyReference.cache
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.SuggestedBindingRedirects.cache
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\App.g.cs
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.cache
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule_MarkupCompile.lref
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\App.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\AddEditRecordWindow.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableAddRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableEditRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\CabinetTableViewPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableAddRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableEditRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ClassTableViewPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\ExcelExportWindow.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableAddRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableEditRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\LessonTableViewPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\MainWindow.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableAddRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableEditRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\SheduleTableViewPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableAddRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableEditRecordPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\TeacherTableViewPage.baml
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.g.resources
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.Properties.Resources.resources
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.GenerateResource.cache
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.csproj.CopyComplete
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.exe
+F:\usb_data\4)Курсовая работа (1 профессия)\coursework\.programs\Shedule\Shedule\obj\Debug\Shedule.pdb

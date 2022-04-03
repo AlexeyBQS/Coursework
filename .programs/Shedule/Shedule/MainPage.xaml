@@ -1,0 +1,63 @@
+﻿<Page x:Class="Shedule.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Shedule"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1200"
+      Title="Расписание - Главная страница"
+      Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="1.5*" MaxWidth="500"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="16*" MaxHeight="600"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1"  Grid.Column="1" >
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontSize="14" Content="Таблицы"/>
+
+            <Button Grid.Row="1" Style="{StaticResource dataButton}" MaxWidth="200"
+                x:Name="CabinetsOpenTableButton" Content="Кабинеты" Click="CabinetsOpenTableButton_Click"/>
+
+            <Button Grid.Row="2" Style="{StaticResource dataButton}" MaxWidth="200"
+                x:Name="ClassesOpenTableButton" Content="Классы" Click="ClassesOpenTableButton_Click"/>
+
+            <Button Grid.Row="3" Style="{StaticResource dataButton}" MaxWidth="200"
+                x:Name="LessonsOpenTableButton" Content="Уроки" Click="LessonsOpenTableButton_Click"/>
+
+            <Button Grid.Row="4" Style="{StaticResource dataButton}" MaxWidth="200"
+                x:Name="SheduleOpenTableButton" Content="Расписание" Click="SheduleOpenTableButton_Click"/>
+
+            <Button Grid.Row="5" Style="{StaticResource dataButton}" MaxWidth="200"
+                x:Name="TeachersOpenTableButton" Content="Учителя" Click="TeachersOpenTableButton_Click"/>
+
+            <Button Grid.Row="7" Style="{StaticResource dataButton}" MaxWidth="200"
+                    x:Name="DeleteDataBaseButton" Content="Удалить все данные" Click="DeleteDataBaseButton_Click"/>
+
+            <Button Grid.Row="9" Style="{StaticResource dataButton}" MaxWidth="200"
+                    x:Name="CloseProgramButton" Content="Закрыть программу" Click="CloseProgramButton_Click"/>
+        </Grid>
+    </Grid>
+</Page>
