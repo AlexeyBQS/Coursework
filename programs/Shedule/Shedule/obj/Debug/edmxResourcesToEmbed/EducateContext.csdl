@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EducateModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="cabinet">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="teacher" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="teacher1" Relationship="Self.FK_cabinetsTeacher_teachersId" FromRole="cabinets" ToRole="teachers" />
+    <NavigationProperty Name="shedules" Relationship="Self.FK_sheduleCabinet_cabinetsId" FromRole="cabinets" ToRole="shedule" />
+  </EntityType>
+  <EntityType Name="class">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="teacher" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="countPupils" Type="Int32" />
+    <NavigationProperty Name="teacher1" Relationship="Self.FK_classesTeacher_teachersId" FromRole="classes" ToRole="teachers" />
+    <NavigationProperty Name="lessons" Relationship="Self.FK_lessonsClass_classId" FromRole="classes" ToRole="lessons" />
+    <NavigationProperty Name="shedules" Relationship="Self.FK_sheduleClass_classesId" FromRole="classes" ToRole="shedule" />
+  </EntityType>
+  <EntityType Name="lesson">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="teacher" Type="Int32" />
+    <Property Name="class" Type="Int32" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="countHours" Type="Int32" />
+    <NavigationProperty Name="class1" Relationship="Self.FK_lessonsClass_classId" FromRole="lessons" ToRole="classes" />
+    <NavigationProperty Name="teacher1" Relationship="Self.FK_lessonsTeacher_teachersId" FromRole="lessons" ToRole="teachers" />
+    <NavigationProperty Name="shedules" Relationship="Self.FK_sheduleLesson_lessonsId" FromRole="lessons" ToRole="shedule" />
+  </EntityType>
+  <EntityType Name="shedule">
+    <Key>
+      <PropertyRef Name="date" />
+      <PropertyRef Name="numberLesson" />
+      <PropertyRef Name="class" />
+    </Key>
+    <Property Name="date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="numberLesson" Type="Int32" Nullable="false" />
+    <Property Name="class" Type="Int32" Nullable="false" />
+    <Property Name="lesson" Type="Int32" />
+    <Property Name="cabinet" Type="Int32" />
+    <NavigationProperty Name="cabinet1" Relationship="Self.FK_sheduleCabinet_cabinetsId" FromRole="shedule" ToRole="cabinets" />
+    <NavigationProperty Name="class1" Relationship="Self.FK_sheduleClass_classesId" FromRole="shedule" ToRole="classes" />
+    <NavigationProperty Name="lesson1" Relationship="Self.FK_sheduleLesson_lessonsId" FromRole="shedule" ToRole="lessons" />
+  </EntityType>
+  <EntityType Name="teacher">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="surname" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="midname" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="birthday" Type="DateTime" Precision="0" />
+    <Property Name="passport" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="cabinets" Relationship="Self.FK_cabinetsTeacher_teachersId" FromRole="teachers" ToRole="cabinets" />
+    <NavigationProperty Name="classes" Relationship="Self.FK_classesTeacher_teachersId" FromRole="teachers" ToRole="classes" />
+    <NavigationProperty Name="lessons" Relationship="Self.FK_lessonsTeacher_teachersId" FromRole="teachers" ToRole="lessons" />
+  </EntityType>
+  <Association Name="FK_cabinetsTeacher_teachersId">
+    <End Role="teachers" Type="Self.teacher" Multiplicity="0..1" />
+    <End Role="cabinets" Type="Self.cabinet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="teachers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="cabinets">
+        <PropertyRef Name="teacher" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sheduleCabinet_cabinetsId">
+    <End Role="cabinets" Type="Self.cabinet" Multiplicity="0..1" />
+    <End Role="shedule" Type="Self.shedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="cabinets">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="shedule">
+        <PropertyRef Name="cabinet" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_classesTeacher_teachersId">
+    <End Role="teachers" Type="Self.teacher" Multiplicity="0..1" />
+    <End Role="classes" Type="Self.class" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="teachers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="classes">
+        <PropertyRef Name="teacher" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_lessonsClass_classId">
+    <End Role="classes" Type="Self.class" Multiplicity="0..1" />
+    <End Role="lessons" Type="Self.lesson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="classes">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="lessons">
+        <PropertyRef Name="class" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sheduleClass_classesId">
+    <End Role="classes" Type="Self.class" Multiplicity="1" />
+    <End Role="shedule" Type="Self.shedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="classes">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="shedule">
+        <PropertyRef Name="class" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_lessonsTeacher_teachersId">
+    <End Role="teachers" Type="Self.teacher" Multiplicity="0..1" />
+    <End Role="lessons" Type="Self.lesson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="teachers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="lessons">
+        <PropertyRef Name="teacher" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sheduleLesson_lessonsId">
+    <End Role="lessons" Type="Self.lesson" Multiplicity="0..1" />
+    <End Role="shedule" Type="Self.shedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="lessons">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="shedule">
+        <PropertyRef Name="lesson" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EducateEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="cabinets" EntityType="Self.cabinet" />
+    <EntitySet Name="classes" EntityType="Self.class" />
+    <EntitySet Name="lessons" EntityType="Self.lesson" />
+    <EntitySet Name="shedules" EntityType="Self.shedule" />
+    <EntitySet Name="teachers" EntityType="Self.teacher" />
+    <AssociationSet Name="FK_cabinetsTeacher_teachersId" Association="Self.FK_cabinetsTeacher_teachersId">
+      <End Role="teachers" EntitySet="teachers" />
+      <End Role="cabinets" EntitySet="cabinets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sheduleCabinet_cabinetsId" Association="Self.FK_sheduleCabinet_cabinetsId">
+      <End Role="cabinets" EntitySet="cabinets" />
+      <End Role="shedule" EntitySet="shedules" />
+    </AssociationSet>
+    <AssociationSet Name="FK_classesTeacher_teachersId" Association="Self.FK_classesTeacher_teachersId">
+      <End Role="teachers" EntitySet="teachers" />
+      <End Role="classes" EntitySet="classes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_lessonsClass_classId" Association="Self.FK_lessonsClass_classId">
+      <End Role="classes" EntitySet="classes" />
+      <End Role="lessons" EntitySet="lessons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sheduleClass_classesId" Association="Self.FK_sheduleClass_classesId">
+      <End Role="classes" EntitySet="classes" />
+      <End Role="shedule" EntitySet="shedules" />
+    </AssociationSet>
+    <AssociationSet Name="FK_lessonsTeacher_teachersId" Association="Self.FK_lessonsTeacher_teachersId">
+      <End Role="teachers" EntitySet="teachers" />
+      <End Role="lessons" EntitySet="lessons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sheduleLesson_lessonsId" Association="Self.FK_sheduleLesson_lessonsId">
+      <End Role="lessons" EntitySet="lessons" />
+      <End Role="shedule" EntitySet="shedules" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
